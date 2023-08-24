@@ -1,0 +1,4 @@
+start-botni ishga tushirish
+inline_keyboard-tigmalar bolimi
+main_keyboard-tel location yuborish
+stop-botni to'xtatish
